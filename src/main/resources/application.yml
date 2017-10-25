@@ -1,0 +1,3 @@
+server:
+  port: 6080
+  contextPath: /SpringBootRestApi
